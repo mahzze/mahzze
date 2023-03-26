@@ -37,3 +37,5 @@
 | ![Mahzze's github stats](https://github-readme-stats.vercel.app/api?username=mahzze&show_icons=true&theme=nord&count_private=true) | ![Mahzze's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahzze&theme=nord&layout=compact&count_private=true) |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahzze&theme=nord&fire=EBC983)](https://git.io/streak-stats)
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
