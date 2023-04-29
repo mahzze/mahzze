@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=25&duration=3000&pause=750&color=9BD3F7&center=true&vCenter=true&width=1000&height=60&lines=Hi+there%F0%9F%91%8B!+I'm+Mahzze.;A+dev+learning+Go+and+Python.;Also+a+translator+leaning+german.;Oh%2C+and+I+use+arch+by+the+way.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=25&duration=3000&pause=750&color=9BD3F7&center=true&vCenter=true&width=1000&height=60&lines=Hi+there%F0%9F%91%8B!+I'm+Mahzze.;A+dev+learning+Go+and+Data+Structures.;Also+an+ocasional+translator+leaning+german.;Oh%2C+and+I+use+arch+by+the+way.)](https://git.io/typing-svg)
 <h3 align="center">A curious developer and translator from Brazil</h3>
 
 #
