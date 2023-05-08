@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahzze&theme=nord&border_radius=5px" alt="mahzze" /></a> </p>
 
 ---------
-<h3 align="left">My tech stack</h3>
+<h3 align="left">What I know a bit or a byte about.</h3>
 
 <p align="left"> 
   <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -27,7 +27,7 @@
   <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+  <img height="30px" width="30px" src="https://www.svgrepo.com/show/353830/gopher.svg" />
 </p>
 
 #
