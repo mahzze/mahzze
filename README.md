@@ -4,7 +4,7 @@
 <h3 align="center">A curious developer and translator from Brazil</h3>
 
 #
-[![mahzze's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahzze&custom_title=contributions&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![mahzze's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahzze&custom_title=contributions&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahzze&theme=nord&border_radius=5px" alt="mahzze" /></a> </p>
 
 ---------
